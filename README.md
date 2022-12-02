@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first "unstructured" assignment for The Odin Project. I'm utilizing a GitHub repository, and practicing git commit best practices. The assignment is to build a basic recipe website with a main page that contains links to recipes on the web.
